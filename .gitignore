@@ -1,0 +1,6 @@
+# 環境変数・機密情報は絶対にコミットしない
+.env
+.env.*
+*.env
+config.local.js
+.mcp.json
